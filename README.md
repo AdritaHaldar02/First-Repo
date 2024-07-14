@@ -1,4 +1,4 @@
 # First-Repo
 My first GitHub project.
 <br>
-Author- Adrita Haldar
+Author- Adrita Haldar (Jhinuk)
